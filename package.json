@@ -1,0 +1,5 @@
+{
+    "name": "armstrong.apps.crm.backends.salesforce",
+    "version": "0.1.0.alpha.0",
+    "description": "A salesforce backend for the armstrong apps crm."
+}
